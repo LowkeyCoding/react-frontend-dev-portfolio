@@ -1,166 +1,173 @@
 {
     "basic_info": {
-      "page_title": "Davina Griss | Portfolio",
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "page_title": "Portfolio",
+      "name": "Loke Walsted",
+      "titles": [ "Backend Developer", "Computer Scientist" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/LowkeyCoding",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/loke-walsted-35727a224/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "10528522.png"
     },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain"
+          "name": "C",
+          "class": "devicon-c-plain"
         },
         {
           "name": "C#",
           "class": "devicon-csharp-plain"
+        },{
+          "name": "GO",
+          "class": "devicon-go-plain"
+        },{
+          "name": "Python",
+          "class": "devicon-python-plain"
+        },{
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain"
+        },{
+          "name": "Java",
+          "class": "devicon-java-plain"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "Postgres",
+          "class": "devicon-postgresql-plain"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain"
+        },{
+          "name": "Linux",
+          "class": "devicon-linux-plain"
+        },{
+          "name": "Bash",
+          "class": "devicon-bash-plain"
+        },{
+          "name": "Nginx",
+          "class": "devicon-nginx-plain"
+        },{
+          "name": "Docker",
+          "class": "devicon-docker-plain"
         }
       ]
     },
     "projects": {
-      "AnimalShelter": {
-        "startDate": "2020",
+      "Flea": {
+        "title": "Flea market management software",
+        "startDate": "2021",
+        "description": "Managing a flea market event and the allocation of customers to available booths can be a pain to administrate. Especially when complexity is added to the mix. Typically, flea markets are held outdoors in the summer months or when the weather allows for it; but when they are held indoors, organisers would have to comply with the proposed guidelines and rules set by the local fire regulating authorities. This involves having a static layout for the available booths and their respective tables or other accessory. Furthermore, when patron customers expect to get the same booth placements for recurring attendances, and various requirements from different customers gets proposed (such as a preferred placement or external needs such as access to a power outlet), and the organisation agrees to accommodate such requests - complexity inevitably increases.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/flea/overview.png",
+          "images/portfolio/flea/placement.png",
+          "images/portfolio/flea/booking.png",
+          "images/portfolio/flea/customers.png"
         ],
-        "url": "",
+        "url": "https://github.com/P3-DAT3-03/Flea",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
-          }
-        ]
-      },
-      "Photography": {
-        "startDate": "2018",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
+          },
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-csharp-plain",
+            "name": "Blazor"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "Entity Framework"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Pogressive webapp"
           }
         ]
       },
-      "ObjectViewer": {
-        "startDate": "2015",
+      "SME": {
+        "title": "Simple Math Evaluation",
+        "startDate": "2021",
+        "description": "A simple single header libary for evaluating mathatical expressions.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/sme/sample.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/LowkeyCoding/sme",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+        ]
+      },
+      "SXML": {
+        "title": "Simple XML Parser",
+        "startDate": "2021",
+        "description": "A simple single header libary for parsing xml into a DOM like structure.",
+        "images": [
+          "images/portfolio/sxml/sample.png"
+        ],
+        "url": "https://github.com/LowkeyCoding/sxml",
+        "technologies": [
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
+            "class": "devicon-c-plain",
+            "name": "C"
+          }
+        ]
+      },
+      "QMK": {
+        "title": "QMK Animation Generator",
+        "startDate": "2021",
+        "description": "Convert a sequence of PNGS or a GIF to a compressed QMK OLED animation.",
+        "images": [
+          "images/portfolio/qmk-animation/sample.png"
+        ],
+        "url": "https://github.com/LowkeyCoding/qmk-animation",
+        "technologies": [
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-c-plain",
+            "name": "C"
+          },{
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       }
     },
-    "experience":[
+    "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "icon":"fa-angular",
+        "company": "Sanistål A/S",
+        "title": "Project Worker",
+        "years": "1.2019 - 2.2019",
+        "icon": "fa-python",
         "mainTech": [
-          "Angular 8/9/10"
+          "Internal sales tool"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "icon":"fa-angular",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Python",
+          "Tkinter",
+          "Beautiful Soup",
+          "PyPDF2"
         ]
       }
     ],
     "languages":{
       "English": "twemoji:flag-for-flag-united-kingdom",
-      "Polskie": "twemoji:flag-for-flag-poland"
+      "Danish": "twemoji:flag-for-flag-denmark"
     }
   }

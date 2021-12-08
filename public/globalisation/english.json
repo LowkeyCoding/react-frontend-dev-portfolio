@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": "👋 I'm Loke Walsted a student at Aalborg Universty studying computer sciences. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -10,27 +10,27 @@
       }
     },
     "projects": {
-      "AnimalShelter": {
-        "title": "Animal Shelter",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter."
+      "Flea":{
+        "title": "Flea market management software",
+        "description": "Managing a flea market event and the allocation of customers to available booths can be a pain to administrate. Especially when complexity is added to the mix. Typically, flea markets are held outdoors in the summer months or when the weather allows for it; but when they are held indoors, organisers would have to comply with the proposed guidelines and rules set by the local fire regulating authorities. This involves having a static layout for the available booths and their respective tables or other accessory. Furthermore, when patron customers expect to get the same booth placements for recurring attendances, and various requirements from different customers gets proposed (such as a preferred placement or external needs such as access to a power outlet), and the organisation agrees to accommodate such requests - complexity inevitably increases."
       },
-      "Photography": {
-        "title": "Photography",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)"
+      "SME":{
+        "title": "Simple Math Evaluation",
+        "description": "A simple single header libary for evaluating mathatical expressions."
       },
-      "ObjectViewer": {
-        "title": "3D Object Viewer",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!"
+      "SXML":{
+        "title": "Simple XML Parser",
+        "description": "A simple single header libary for parsing xml into a DOM like structure."
+      },
+      "QMK":{
+        "title": "QMK Animation Generator",
+        "description": "Convert a sequence of PNGS or a GIF to a compressed QMK OLED animation."
       }
     },
     "experience": [
       {
-        "title": "Front-End Developer",
-        "years": "10.2019 - present"
-      },
-      {
-        "title": "Intern",
-        "years": "01.2018 - 09.2019"
+        "title": "Project Worker",
+        "years": "1.2019 - 2.2019"
       }
     ]
   }

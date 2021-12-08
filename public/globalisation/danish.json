@@ -1,0 +1,40 @@
+{
+  "basic_info": {
+    "description_header": "Hej",
+    "description": "👋 Jeg hedder Loke Walsted og studere datalogi på Aalborg Universitet.",
+    "section_name": {
+      "about": "Om mig",
+      "projects": "Projekter",
+      "skills": "Evner",
+      "experience": "Erfaring"
+    }
+  },
+  "projects": {
+    "Flea":{
+      "title": "Flea market management software",
+      "description": "Managing a flea market event and the allocation of customers to available booths can be a pain to administrate. Especially when complexity is added to the mix. Typically, flea markets are held outdoors in the summer months or when the weather allows for it; but when they are held indoors, organisers would have to comply with the proposed guidelines and rules set by the local fire regulating authorities. This involves having a static layout for the available booths and their respective tables or other accessory. Furthermore, when patron customers expect to get the same booth placements for recurring attendances, and various requirements from different customers gets proposed (such as a preferred placement or external needs such as access to a power outlet), and the organisation agrees to accommodate such requests - complexity inevitably increases."
+    },
+    "SME":{
+      "title": "Simpel Matematisk Evaluering",
+      "description": "Et simpelt enkelt header biblotek for evaluering af matematiske udtryk."
+    },
+    "SXML":{
+      "title": "Simpel XML Parser",
+      "description": "Et simpelt enkelt header biblotek for parsing af xml in i en DOM struktur."
+    },
+    "QMK":{
+      "title": "QMK Animation Generator",
+      "description": "Konvetere en sekvens af PNGS eller en GIF til en komprimeret QMK OLED-animation."
+    }
+  },
+  "experience": [
+    {
+      "title": "Front-End Developer",
+      "years": "10.2019 - obecnie"
+    },
+    {
+      "title": "Stażystka",
+      "years": "01.2018 - 09.2019"
+    }
+  ]
+}
