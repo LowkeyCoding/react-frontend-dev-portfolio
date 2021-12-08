@@ -126,6 +126,7 @@
         "company": "DefOpenSource",
         "title": "Front-End Developer",
         "years": "10.2019 - present",
+        "icon":"fa-angular",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -145,6 +146,7 @@
         "company": "Serros Solutions",
         "title": "Intern",
         "years": "01.2018 - 09.2019",
+        "icon":"fa-angular",
         "mainTech": [
           "Angular 7/8"
         ],
